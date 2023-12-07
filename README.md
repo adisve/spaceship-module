@@ -1,4 +1,5 @@
 # Polybar Space Rocket
+<img src="./assets/screenshot.png"/>
 
 ## Overview
 Polybar Space Rocket is a creative Polybar module that converts your keystrokes into kilometers, propelling a rocket through virtual space. It's designed to make typing more fun and visually engaging.
